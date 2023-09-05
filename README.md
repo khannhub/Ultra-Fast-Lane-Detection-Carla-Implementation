@@ -40,7 +40,7 @@ Note that the versions listed above are those that we have tested and confirmed 
 
 To use our project, follow these steps:
 
-1. Clone our repository: git clone https://github.com/yourusername/Ultra-Fast-Lane-Detection.git
+1. Clone our repository: git clone https://github.com/rusano1612/Ultra-Fast-Lane-Detection-Carla-Implementation.git
 2. Install the required dependencies (See [Installation Tutorial](/doc/INSTALL.md) for more information)
 3. Download the datasets and models from our Github page.
 4. Run the project using the provided scripts.
